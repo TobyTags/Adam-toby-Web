@@ -1,24 +1,31 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: #008080;
-    color: white;
-    padding: 1em;
-    text-align: center;
-  }
-  
-  nav {
-    background-color: #b3d9ff;
-  }
-      
-.about-image {
-    maxwidth: 100px;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-.aresources-image {
-    maxwidth: 100px;
-  }
+header {
+  background-color: #008080;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav {
+  background-color: #b3d9ff;
+}
+
+main {
+  padding-left: 20px;
+  background-color: rgba(27, 246, 129, 0.37);
+}
+    
+.about-image {
+  padding-left: 50px;
+  max-width: 300px;
+}
+
+.resources-image {
+  max-width: 300px;
+  padding-left: 50px;
+}
