@@ -13,3 +13,12 @@ body {
   
   nav {
     background-color: #b3d9ff;
+  }
+      
+.about-image {
+    maxwidth: 100px;
+  }
+
+.aresources-image {
+    maxwidth: 100px;
+  }
